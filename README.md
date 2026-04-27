@@ -5,3 +5,4 @@
 - LAB03 https://github.com/mp371366/ML/blob/main/LAB03.ipynb
 - LAB04 https://github.com/mp371366/ML/blob/main/LAB04.ipynb
 - LAB05 https://github.com/mp371366/ML/blob/main/LAB05.ipynb
+- LAB06 https://github.com/mp371366/ML/blob/main/LAB06.ipynb
