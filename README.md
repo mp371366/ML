@@ -8,3 +8,4 @@
 - LAB06 https://github.com/mp371366/ML/blob/main/LAB06.ipynb
 - LAB07 https://github.com/mp371366/ML/blob/main/LAB07.ipynb
 - LAB08 https://github.com/mp371366/ML/blob/main/Lab08.ipynb
+- LAB09 https://github.com/mp371366/ML/blob/main/LAB09.ipynb
