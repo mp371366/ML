@@ -12,5 +12,6 @@
 - LAB10 https://github.com/mp371366/ML/blob/main/LAB10.ipynb
 - LAB11 https://github.com/mp371366/ML/blob/main/LAB11.ipynb
 - LAB12 https://github.com/mp371366/ML/blob/main/LAB12.ipynb
+- LAB13 https://github.com/mp371366/ML/blob/main/LAB13.ipynb
 
 ![Ewolucja snów sieci](deep_dream_evolution.gif)
